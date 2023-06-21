@@ -1,0 +1,30 @@
+1.What is software? What is software engineering?
+->Software is a program or set of programs containing instructions that provide desired functionality. And Engineering is the process of designing and building something that serves a particular purpose and finds a cost-effective solution to problems.
+->Software engineering is the process of designing, developing, testing, and maintaining software. It is a systematic and disciplined approach to software development that aims to create high-quality, reliable, and maintainable software. Software engineering includes a variety of techniques, tools, and methodologies, including requirements analysis, design, testing, and maintenance.
+
+2.Explain types of software
+->There are two types of software.system software and application software.
+Types of system software:Operating System,Language Processor,Device Driver
+Types of application software:General Purpose Software,Customized Software,Utility Software
+
+3.What is SDLC? Explain each phase of SDLC.
+->SDLC stands for Software Development Life Cycle. It is a process that is used to design, develop and test high-quality software. The different phases of SDLC include planning, requirements, design, development, testing, deployment, and maintenance.
+
+The SDLC process is divided into the following steps:
+
+->Requirement collection and analysis: In this phase, the requirements for the software are collected and analyzed.
+->Feasibility study: In this phase, the feasibility of the project is determined.
+->Design: In this phase, the software design is created based on the requirements.
+->Coding: In this phase, the actual coding of the software takes place.
+->Testing: In this phase, the software is tested to ensure that it meets the requirements.
+->Deployment: In this phase, the software is deployed to the production environment.
+->Maintenance: In this phase, the software is maintained to ensure that it continues to meet the requirements.
+
+3.What is DFD? Create a DFD diagram on Flipkart.
+->DFD is the abbreviation for Data Flow Diagram. The flow of data of a system or a process is represented by DFD. It also gives insight into the inputs and outputs of each entity and the process itself. DFD does not have control flow and no loops or decision rules are present. Specific operations depending on the type of data can be explained by a flowchart.
+ 
+4.What is Flow chart? Create a flowchart to make addition of two numbers
+->A flowchart is a type of diagram that represents a workflow or process. A flowchart can also be defined as a diagrammatic representation of an algorithm, a step-by-step approach to solving a task.
+
+5.What is Use case Diagram? Create a use-case on bill payment on paytm.
+->A use case diagram is a visual summarization of interactions and relationships within a system. These diagrams show a very broad view of a system. They may show systems in computer software, businesses or customer experiences. A use case diagram shows a model scenario in which individuals interact with a system using a series of specialized symbols and connectors.
